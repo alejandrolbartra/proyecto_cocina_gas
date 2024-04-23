@@ -124,7 +124,7 @@ public class Tienda_1_0 extends JFrame {
 
 		setContentPane(contentPane);
 	
-
+ //hola
 	}
 	
 }
