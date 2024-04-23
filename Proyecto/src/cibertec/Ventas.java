@@ -1,4 +1,4 @@
-package cibertec;
+||package cibertec;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
@@ -175,8 +175,7 @@ public class Ventas extends JDialog implements ActionListener {
 			txtArea.append("Importe de compra 	: S/. " + df.format(nImpCom) + "\n");
 			txtArea.append("Importe de descuento 	: S/." + df.format(nImpDes) + "\n");
 			txtArea.append("Importe a pagar 	: S/." + df.format(nImpPag) + "\n");
-			txtArea.append("Importe a pagar2 	: S/." + df.format(nImpPag) + "\n");
-	
+		
 		
 
 	}
