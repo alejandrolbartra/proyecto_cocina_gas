@@ -25,28 +25,28 @@ public class Tienda extends JFrame implements ActionListener {
 	public static String marca1 = "Springwall";
 	public static double precio1 = 679.0;
 	public static int garantia = 10;
-	public static String tamaño0 = "2 Plazas";
+	public static String tamaño1 = "2 Plazas";
 	public static String material1 = "Tejido de Punto con Algod�n Org�nico";
 	
 	// Datos m�nimos del tercer colch�n
 	public static String marca2 = "Paraiso";
 	public static double precio2 = 479.0;
 	public static int garantia2 = 5;
-	public static String tamaño0 = "1 1/2 Plazas";
+	public static String tamaño3 = "1 1/2 Plazas";
 	public static String material2 = "Tejido de Punto";
 	
 	// Datos m�nimos del cuarto colch�n
 	public static String marca3 = "Drimer";
 	public static double precio3 = 749.0;
 	public static int garantia3 = 4;
-	public static String tamaño0 = "Queen";
+	public static String tamaño4 = "Queen";
 	public static String material3 = "Jacquard";
 	
 	// Datos m�nimos del quinto colch�n
 	public static String marca4 = "Cisne";
 	public static double precio4 = 389.0;
 	public static int garantia4 = 2;
-	public static String tamaño0 = "1 1/2 Plazas";
+	public static String tamaño5 = "1 1/2 Plazas";
 	public static String material4 = "Tejido de Punto";
 	
 	// Porcentajes de descuento
